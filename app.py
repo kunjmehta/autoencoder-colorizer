@@ -9,7 +9,6 @@ from skimage.color import lab2rgb, rgb2lab, rgb2gray
 from skimage import io
 from skimage.transform import resize
 from PIL import Image
-import cv2
 
 import torch
 import torch.nn as nn
