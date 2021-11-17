@@ -1,5 +1,5 @@
 # autoencoder-colorizer
-<h5? A B/W image colorizer made using a residual connection powered autoencoder architecture </h5>
+<h5> A B/W image colorizer made using a residual connection powered autoencoder architecture </h5>
 
 -----------------------------------------
 ### Motivation, Challenge & Accomplishment
