@@ -22,6 +22,18 @@ course on Coursera to an actual use case based project
 
 ***
 
+### Example
+
+**Input**
+ 
+ <img height=224px width=224px src="https://github.com/kunjmehta/autoencoder-colorizer/blob/master/input.jpg" alt="autoencoder input">
+ 
+ **Output**
+ 
+ <img src="https://github.com/kunjmehta/autoencoder-colorizer/blob/master/output.jpeg" alt="autoencoder output">
+ 
+***
+
 ### Website 
 
 You can access and use the application [here](https://share.streamlit.io/kunjmehta/autoencoder-colorizer/app.py)
